@@ -1,0 +1,129 @@
+.obwak{
+  background-image:url(https://phonoteka.org/uploads/posts/2022-09/1663851948_43-phonoteka-org-p-kletka-tetradi-fon-oboi-44.jpg);
+}
+.header{
+  background-image: url(https://i.pinimg.com/originals/03/2b/3b/032b3ba0ec5dea40b44b6b601ec5616f.jpg);
+  height: 120px;
+}
+.href{
+  text-decoration: none;
+  color: rgb(2, 4, 100);
+  margin-top: 45px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.hreff{
+  color:black;
+}
+
+.box{
+  float: left;
+  width: 500px;
+  height: 500px;
+  border: solid rgb(121, 141, 9);
+  margin-left: 100%;
+  margin-top: 30%;
+  background-color: rgb(59, 66, 78);
+  border-radius: 20px;
+  text-align: center;
+  box-shadow: 0px 0px 30px 10px  rgb(50, 186, 240);
+}
+
+@media (max-width:300px){
+  .box{
+    float: left;
+    margin-left: 10%;
+    width: 450px;
+    
+  }
+}
+
+.box1{
+  color: rgb(3, 3, 3);
+  text-align: center;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+}
+.fonn{
+  background-color: rgb(129, 128, 128);
+  
+}
+
+
+.email{
+  height: 50px;
+}
+.vx{
+  background-color:rgb(11, 142, 146) ;
+  color: azure;
+  width: 320px;
+  height: 50px;
+  
+}
+.test{
+  text-align: center;
+}
+.reg{
+  text-decoration: none;
+
+}
+.colum{
+  border: solid #0bafbb;
+  box-shadow: 0px 0px 5px 5px   rgb(227, 230, 233);
+  background-image: url(https://phonoteka.org/uploads/posts/2021-04/1618752108_43-phonoteka_org-p-tsvet-morskoi-volni-fon-odnotonnii-43.jpg);
+  
+
+}
+.intest{
+  text-decoration: none;
+ text-align: start;
+  color: #ee0b0b;
+  height: 30px;
+  text-align: justify ;
+
+}
+.intest:hover{
+  background-color: rgb(230, 179, 129);
+}
+.regbox{
+  width:500px;
+  height: 500px;
+  border: solid rgb(13, 115, 184);
+  box-shadow: 0px 0px 30px 10px  rgb(34, 228, 235);
+
+  border-radius: 20px;
+  margin-left: 550px;
+  margin-top: 150px;
+  background-color:rgb(47, 55, 70);
+
+ 
+}
+.regis{
+  margin-top: 20px;
+  text-align: center;
+}
+.rreg{
+  margin-left: 20px;
+}
+.btnreg{
+  width: 200px;
+  height: 40px;
+  margin-left: 150px;
+  margin-top: 20px;
+  background-color: #ce7f17;
+  color: white;
+}
+
+.exit{
+  width: 120px;
+  background-color: rgb(84, 220, 238);
+  color: rgb(75, 48, 48);
+  border-radius: 45px;
+}
+.pol{
+  padding: 40px;
+}
+@media (max-width:600px){
+  .php{
+    width:100%;
+  }
+}
+
